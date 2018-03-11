@@ -1,4 +1,4 @@
-# Lab 6 - *PhotoMap
+# Lab 6 - PhotoMap
 
 **Photo Map** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
